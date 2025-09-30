@@ -1,6 +1,6 @@
 🎧 Psycho Playlist Recommender Bot
 
-A silly idea turned into a working mini-app 👀
+A silly idea turned into a working mini-app 
 This Python + JSON CLI bot recommends playlists randomly without repeating until you’ve cycled through them all. And yes… it even remembers your history across runs.
 
 🚀 Features
@@ -66,4 +66,4 @@ Basic CLI UX thinking
 🤡 Why I built this
 
 Started with silly scripts → ended up building something actually useful and fun.
-Also… a little dopamine hit before jumping back into DSA grind 😅
+Also… a little dopamine hit before jumping back into DSA grind �
