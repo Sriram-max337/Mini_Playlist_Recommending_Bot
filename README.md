@@ -33,7 +33,7 @@ Clone this repo.
 
 Run the script:
 
-python playlist_bot.py
+python Playlistbot.py
 
 
 Follow the menu:
